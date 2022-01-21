@@ -1,3 +1,4 @@
+//Project 6
 //function is called when start demo button is clicked
 function mathMethods() {
 //variables are created from HTML IDs
